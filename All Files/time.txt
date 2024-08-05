@@ -1,0 +1,31 @@
+            _    __    __ __  __ 
+           //   /_//_// //__//_    __ __       
+          ((__ / // //_// \ /_     / / /    _   __ ___ __ __    ___
+                                  / /_/    //_//_//__//_//  /_/ /
+                                          // \/ // \ / /(_ / /_/_
+
+       AVALIBILITY      |   -(TRAINS)-              |        TRAIN_ID      |    ARIVAL TIMES        |     DEPARTURE TIMES    |  AVALIBLE DAYS |
+       YES              |   Alama Iqbal Express     |         102UO        |       07:00 am         |       10:00 am         |   Monday       |                                                                                                
+             NO         |   Akbar Express           |         103UP        |       10:00 am         |       12:00 am         |   Monday       |                                                              
+       YES              |   Awam Express            |         104DN        |       12:00 am         |       03:00 pm         |   Monday       |                                                        
+             NO         |   Babu Passenger          |         105MN        |       01:00 Pm         |       02:00 Pm         |   Monday       |                                                                    
+        YES             |   Badar Express           |         106UP        |       04:00 Pm         |       05:00 Pm         |   Monday       |                                                                  
+              NO        |   Faiz Ahmad Faiz Express |         107IO        |       11:00 Pm         |       03:00 am         |   Monday       |                                                                         
+       NO               |   Jinnah Express          |         107UO        |       06:00 am         |       10:00 am         |   Tuesday      |                                                                                                
+            YES         |   Karachi Express         |         108UP        |       09:00 am         |       11:00 am         |   Tuesday      |                                                               
+       YES              |   Karakoram Express       |         109DN        |       10:00 am         |       12:00 am         |   Tuesday      |                                                        
+             NO         |   Khyber Mail             |         110MN        |       02:00 Pm         |       03:30 Pm         |   Tuesday      |                                                                      
+        NO              |   Lasani Express          |         111UP        |       06:00 Pm         |       07:30 Pm         |   Tuesday      |
+       YES              | Rawalpindi Express        |         120UO        |       07:00 am         |       10:00 am         |   FRIDAY       |                                                                                   
+             NO         |    Pak Business Express   |         121UP        |       10:00 am         |       12:00 am         |   FRIDAY       |                                                               
+       NO               |   Rehman Baba Express     |         122DN        |       12:00 am         |       03:00 pm         |   FRIDAY       |                                                        
+             NO         |  Sargodha Express         |         123MN        |       01:00 Pm         |       02:00 Pm         |   FRIDAY       |                                                                      
+        YES             |  Faisalabad Express       |         124UP        |       04:00 Pm         |       05:00 Pm         |   FRIDAY       |                                                                  
+              NO        |   Fareed Express          |         125IO        |       11:00 Pm         |       03:00 am         |   FRIDAY       |
+       YES              | Shah Hussain Express      |         126UO        |       07:00 am         |       10:00 am         |   Saturday     |                                                                                                 
+             NO         |  Shalimar Express         |         127UP        |       10:00 am         |       12:00 am         |   Saturday     |                                                                
+       YES              |  Subak Kharam             |         128DN        |       12:00 am         |       03:00 pm         |   Saturday     |
+       YES              |  Subak Raftar             |         129UO        |       07:00 am         |       10:00 am         |   Sunday       |                                                                                              
+             YES        |  Islamabad Express        |         130UP        |       10:00 am         |       12:00 am         |   Sunday       |                                                             
+       YES              |  Tezgam Express           |         131DN        |       12:00 am         |       03:00 pm         |   Sunday       |                                                      
+             NO         |  Waris Shah Fast          |         132MN        |       01:00 Pm         |       02:00 Pm         |   Sunday       |

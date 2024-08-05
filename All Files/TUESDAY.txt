@@ -1,0 +1,12 @@
+            _    __    __ __  __ 
+           //   /_//_// //__//_    __ __       
+          ((__ / // //_// \ /_     / / /    _   __ ___ __ __    ___
+                                  / /_/    //_//_//__//_//  /_/ /
+                                          // \/ // \ / /(_ / /_/_
+
+       AVALIBILITY      |   -(TRAINS)-              |        TRAIN_ID      |    ARIVAL TIMES        |     DEPARTURE TIMES    |
+       NO               |   Jinnah Express          |         107UO        |       06:00 am         |       10:00 am         |                                                                                                         
+            YES         |   Karachi Express         |         108UP        |       09:00 am         |       11:00 am         |                                                                        
+       YES              |   Karakoram Express       |         109DN        |       10:00 am         |       12:00 am         |                                                                 
+             NO         |   Khyber Mail             |         110MN        |       02:00 Pm         |       03:30 Pm         |                                                                               
+        NO              |   Lasani Express          |         111UP        |       06:00 Pm         |       07:30 Pm         |             

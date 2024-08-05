@@ -1,0 +1,13 @@
+            _    __    __ __  __ 
+           //   /_//_// //__//_    __ __       
+          ((__ / // //_// \ /_     / / /    _   __ ___ __ __    ___
+                                  / /_/    //_//_//__//_//  /_/ /
+                                          // \/ // \ / /(_ / /_/_
+
+       AVALIBILITY      |   -(TRAINS)-              |        TRAIN_ID      |    ARIVAL TIMES        |     DEPARTURE TIMES    |
+       YES              | Rawalpindi Express        |         120UO        |       07:00 am         |       10:00 am         |                                                                                                         
+             NO         |    Pak Business Express   |         121UP        |       10:00 am         |       12:00 am         |                                                                        
+       NO               |   Rehman Baba Express     |         122DN        |       12:00 am         |       03:00 pm         |                                                                 
+             NO         |  Sargodha Express         |         123MN        |       01:00 Pm         |       02:00 Pm         |                                                                               
+        YES             |  Faisalabad Express       |         124UP        |       04:00 Pm         |       05:00 Pm         |                                                                           
+              NO        |   Fareed Express          |         125IO        |       11:00 Pm         |       03:00 am         |      
